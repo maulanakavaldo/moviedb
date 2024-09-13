@@ -26,7 +26,7 @@ day_10 | 09 October 2023
 day_9 | 06 October 2023
 ---------------------------
 - install swr
-- Generate token git (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)
+- Generate token git
 - Show user using slug
 - custom metadata
 - show user from API Github
